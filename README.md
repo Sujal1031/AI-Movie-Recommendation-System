@@ -104,7 +104,7 @@ The application will open in your browser.
 **Sujal Gondaliya**
 
 Computer Science Student
-Interested in **AI, Machine Learning, and DevOps**
+Interested in **AI, Machine Learning
 
 ---
 
