@@ -35,7 +35,6 @@ AI-Movie-Recommendation-System
 ├── app.py
 ├── movies.pkl
 ├── similarity.pkl
-├── requirements.txt
 └── README.md
 ```
 
@@ -84,11 +83,6 @@ The application will open in your browser.
 
 ---
 
-## 📸 Screenshot
-
-(Add a screenshot of your project here)
-
----
 
 ## 📌 Future Improvements
 
